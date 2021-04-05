@@ -12,7 +12,7 @@
 
 ## Introduction
 
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+* in the budget tracker application, The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
 Offline Functionality:
 
@@ -20,8 +20,8 @@ Offline Functionality:
 - Enter expenses offline
 
 When brought back online:
-
 - Offline entries should be added to tracker.
+
 ## Installation
 
 * node js 
