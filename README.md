@@ -38,11 +38,8 @@ When brought back online:
 
 ![image](./public/assets/img/screenshot.png)
 
-![image](./public/assets/img/screenshot2.png)
-
-![image](./public/assets/img/screenshot3.png)
-
 ## Link
 
-* Link: https://stormy-refuge-95710.herokuapp.com/?id=606272ae0760a9001569cb59
+* Link: https://rocky-taiga-30270.herokuapp.com/
+
 
